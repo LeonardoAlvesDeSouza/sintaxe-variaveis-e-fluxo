@@ -12,10 +12,10 @@ public class TestaCaracteres {
 		valor = (char) (valor + 1);
 		System.out.println(valor);
 		
-		String palavra = "alura cursos online de tecnologia";
+		String palavra = "alura cursos online de tecnologia ";
 		System.out.println(palavra);
 		
-		palavra = palavra + 2020;
+		palavra = palavra + 2023;
 		System.out.println(palavra);
 	}
 
