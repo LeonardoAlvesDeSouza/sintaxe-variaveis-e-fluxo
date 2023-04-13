@@ -1,5 +1,4 @@
-
-public class TestaCondicional {
+public class TestaCondicional2 {
 
 	public static void main(String[] args) {
 		System.out.println("testando condicionais");
@@ -16,9 +15,6 @@ public class TestaCondicional {
 				System.out.println("infelizmente você não pode entrar");
 			}
 		}
-		
-		System.out.println("Teste de escrita do teclado novo");
-		
+				
 	}
-
 }
